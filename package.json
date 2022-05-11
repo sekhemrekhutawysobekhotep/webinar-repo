@@ -11,6 +11,6 @@
   "supertest": "latest"
  },
  "scripts": {
-   "test": "mocha"
+  "test": "mocha"
  }
 }
